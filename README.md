@@ -1,5 +1,5 @@
 # bartender-system
-# Bartender Service API
+# Bartender System API
 This Spring Boot application simulates a Bartender Service API where customers can place drink orders and view all placed orders. 
 
 ## Project Features
